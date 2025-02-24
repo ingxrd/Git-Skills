@@ -1,7 +1,8 @@
 ## 🌱 Branches e Merge
 
-Nós usamos branches porque elas possibiliam trabalhar no mesmo repositório sem causar problemas. 
+Nós usamos branches porque elas possibiliam que várias pessoas trabalhem no mesmo repositório sem afetar o projeto principal.
 
+```
 1. git branch                  # Lista todas as branches
 2. git branch nova-branch      # Cria uma nova branch
 3. git checkout nova-branch    # Troca para a nova branch
