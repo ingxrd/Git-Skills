@@ -1,8 +1,28 @@
-#Comandos Básicos
+# Comandos Básicos
 
-git init #Inicializa um repositório vazio Git
-git clone <url> #Clona um repositório existente
-git status #Verifica o status dos arquivos
-git commit -m "Mensagem" # Faz um commit
-git log #Exibe todo o histórico de commits
+Aqui estão alguns dos comandos Git essenciais para começar a trabalhar com repositórios:
 
+1. **Inicializar um repositório Git vazio:**
+
+```
+   git init  # Cria um novo repositório Git no diretório atual
+  ```
+
+2. Clonar um repositório remoto para sua máquina local:
+```
+git clone <url>  # Clona o repositório da URL especificada
+```
+3. Verificar o status dos arquivos (quais foram modificados, adicionados ou removidos):
+
+```
+git status
+```
+4. Fazer um commit com uma mensagem explicativa:
+```
+git commit -m "Mensagem explicativa"
+```
+
+5. Exibir o histórico de commits do repositório:
+```
+git log
+```
